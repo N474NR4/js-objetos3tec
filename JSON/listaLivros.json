@@ -1,20 +1,32 @@
 {
   "livrosBiblioteca": [
     {
-      "titulo": "Como programar em JavaScript",
-      "preco": 59.99
+      "titulo": "Noites Brancas - Fiódor Dostoiévski",
+      "preco": 19.90
     },
     {
-      "titulo": "Como programar em Python",
-      "preco": 39.99
+      "titulo": "O Mito de Sísifo - Albert Camus",
+      "preco": 52.16
     },
     {
-      "titulo": "O mundo de Sofia",
-      "preco": 79.99
+      "titulo": "O Príncipe - Nicolau Maquiavel",
+      "preco": 24.90
     },
     {
-      "titulo": "The Muscle Ladder por Jeffrey Nippard",
-      "preco": 19.99
+      "titulo": "A República - Platão",
+      "preco": 34.50
+    },
+    {
+      "titulo": "Meditações - Marco Aurélio",
+      "preco": 29.90
+    },
+    {
+      "titulo": "Genealogia da Moral - Friedrich Nietzsche",
+      "preco": 39.90
+    },
+    {
+      "titulo": "Crime e Castigo - Fiódor Dostoiévski",
+      "preco": 64.00
     }
   ]
 }
