@@ -36,6 +36,6 @@ function divideNoPivo(array) {
   }
 
   return array;
-}
+} 
 
 module.exports = trocaLugar;
